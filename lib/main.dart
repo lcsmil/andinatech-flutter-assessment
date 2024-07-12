@@ -1,4 +1,4 @@
-import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/data/data_sources/fetch_beneficiaries_data_source.dart';
+import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/data/data_sources/beneficiaries_data_source.dart';
 import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/data/repositories/beneficiaries_repository.dart';
 import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/domain/use_cases/calculate_recharge_options_use_case.dart';
 import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/domain/use_cases/check_top_up_limit_exceeded_use_case.dart';

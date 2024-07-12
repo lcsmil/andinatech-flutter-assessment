@@ -1,4 +1,4 @@
-import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/data/data_sources/fetch_beneficiaries_data_source.dart';
+import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/data/data_sources/beneficiaries_data_source.dart';
 import 'package:andinatech_flutter_assessment/features/phone_credit_recharge/domain/entities/beneficiary.dart';
 
 abstract class BeneficiariesRepository {
