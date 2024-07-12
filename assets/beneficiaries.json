@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nickname": "John Doe",
+    "phoneNumber": "+1234567890",
+    "isVerified": true,
+    "balance": 99.50,
+    "aedSpentInMonth": 50.00
+  },
+  {
+    "id": "2",
+    "nickname": "Jane Smith",
+    "phoneNumber": "+9876543210",
+    "isVerified": true,
+    "balance": 25.25,
+    "aedSpentInMonth": 900.00
+  },
+  {
+    "id": "3",
+    "nickname": "Alex Miller",
+    "phoneNumber": "+5412312345",
+    "isVerified": true,
+    "balance": 500.00,
+    "aedSpentInMonth": 500.00
+  }
+]

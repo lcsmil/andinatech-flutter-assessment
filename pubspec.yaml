@@ -9,6 +9,12 @@ environment:
   sdk: '>=3.4.3 <4.0.0'
 
 dependencies:
+  bloc: ^8.1.4
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.6
+  get_it: ^7.7.0
+  http: ^1.2.1
+
   flutter:
     sdk: flutter
 
@@ -18,8 +24,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^3.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
+  assets:
+    - assets/beneficiaries.json
 
   uses-material-design: true
